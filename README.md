@@ -8,7 +8,7 @@ work in progress
 
 ## List available commands
 
-        bin/console list 
+    bin/console list 
 
 ## Fetch current prices
 
